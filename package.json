@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/veizz/react-native-picker-scrollview.git"
+    "url": "git+https://github.com/cdgmx/react-native-picker-scrollview.git"
   },
   "keywords": [
     "picker",
     "react-native",
     "react-native-picker"
   ],
-  "author": "veizz",
+  "author": "cdgmx",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/veizz/react-native-picker-scrollview/issues"
+    "url": "https://github.com/cdgmx/react-native-picker-scrollview/issues"
   },
-  "homepage": "https://github.com/veizz/react-native-picker-scrollview#readme",
+  "homepage": "https://github.com/cdgmx/react-native-picker-scrollview#readme",
   "dependencies": {
     "deprecated-react-native-prop-types": "^2.3.0"
   },
