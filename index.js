@@ -7,8 +7,7 @@ import ReactNative, {
     View,
     ScrollView,
     Dimensions,
-    Platform,
-    ViewPropTypes
+    Platform
 } from 'react-native';
 import PropTypes from 'prop-types';
 import { ViewPropTypes } from 'deprecated-react-native-prop-types';
