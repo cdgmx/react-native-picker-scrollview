@@ -11,6 +11,7 @@ import ReactNative, {
     ViewPropTypes
 } from 'react-native';
 import PropTypes from 'prop-types';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 
 const deviceWidth = Dimensions.get('window').width;
 const deviceHeight = Dimensions.get('window').height;

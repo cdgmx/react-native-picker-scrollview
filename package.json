@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/veizz/react-native-picker-scrollview/issues"
   },
-  "homepage": "https://github.com/veizz/react-native-picker-scrollview#readme"
+  "homepage": "https://github.com/veizz/react-native-picker-scrollview#readme",
+  "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0"
+  }
 }
